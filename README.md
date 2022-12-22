@@ -6,7 +6,7 @@
 
    ```python
    str = "Hello, world!!!"
-   print(s)
+   print(str)
    ```
 
 3. Я изучаю ***Markdown***
